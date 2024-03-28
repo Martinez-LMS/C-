@@ -1,6 +1,12 @@
-### Listagem de produto
+### RAIZ DA APLICAÇÃO http://localhost:5138/
+GET http://localhost:5138/
+
+### SEMPRE USA 3 ### PARA ABRIR O LINK DE TESTE DO SEND REQUEST
 GET http://localhost:5138/produtos/listar
 
+
+### SEMPRE USA 3 ### PARA ABRIR O LINK DE TESTE DO SEND REQUEST
+GET http://localhost:5138/produtos/buscar/celular
 
 ### CADASTRO DE PRODUTO
 POST http://localhost:5138/produtos/cadastro
